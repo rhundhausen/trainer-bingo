@@ -2,7 +2,7 @@
 <StudentTypes>
   <StudentType>
     <Type>Architect</Type>
-    <Description>Appreciates that a Scrum Development Team will be able to deliver on his designs better, faster, cheaper</Description>
+    <Description>Appreciates that the Developers will be able to deliver on his designs better, faster, cheaper</Description>
   </StudentType>
   <StudentType>
     <Type>Autist</Type>
@@ -10,7 +10,7 @@
   </StudentType>
   <StudentType>
     <Type>BDUF</Type>
-    <Description>Considers a Product Backlog item to be a pointer to a large specification document that defines both the "what" and the "how"; also known as Specs</Description>
+    <Description>Considers a Product Backlog item to be a pointer to a large specification document that defines both the what and the how; also known as "Specs"</Description>
   </StudentType>
   <StudentType>
     <Type>Blue Screen</Type>
@@ -34,7 +34,7 @@
   </StudentType>
   <StudentType>
     <Type>Dinosaur</Type>
-    <Description>The Dinosaur is a type of "Know-It-All" with no modern experience, but believes 20+ years with dead tech makes them an expert</Description>
+    <Description>The Dinosaur is a type of "Know-It-All" with no modern experience, but believes 20+ years with dead tech still makes them an expert</Description>
   </StudentType>
   <StudentType>
     <Type>Done-Done</Type>
@@ -42,7 +42,7 @@
   </StudentType>
   <StudentType>
     <Type>Doppelgänger</Type>
-    <Description>Not truly engaged - just wants to be the instructor. Their questions are mostly about the event or your background.</Description>
+    <Description>Not truly engaged - just wants to be an instructor. Their questions are mostly meta - about the event or your background.</Description>
   </StudentType>
   <StudentType>
     <Type>Enabler</Type>
@@ -54,7 +54,7 @@
   </StudentType>
   <StudentType>
     <Type>Fidget</Type>
-    <Description>Can’t sit still, constantly moving or sighing; chairs will get horrible scores</Description>
+    <Description>Can't sit still, constantly moving or sighing; chairs will get negative feedback</Description>
   </StudentType>
   <StudentType>
     <Type>Flirt</Type>
@@ -62,11 +62,11 @@
   </StudentType>
   <StudentType>
     <Type>Groom</Type>
-    <Description>Still uses the term "grooming" instead of "refinement" despite updates to Scrum terminology</Description>
+    <Description>Still uses the term "grooming" instead of "refinement" despite updates to the Scrum Guide</Description>
   </StudentType>
   <StudentType>
     <Type>Hardening Sprint</Type>
-    <Description>Believes a sprint dedicated to hardening is required for release - why not 2 or 3?</Description>
+    <Description>Believes a Sprint dedicated to hardening is required for release - why not 2 or 3?</Description>
   </StudentType>
   <StudentType>
     <Type>Headstart</Type>
@@ -82,15 +82,15 @@
   </StudentType>
   <StudentType>
     <Type>Insurgent</Type>
-    <Description>Closed-minded evangelist for their favorite tech; tries to convert everyone in class</Description>
+    <Description>Closed-minded evangelist for their favorite practice, process, or tech; tries to convert others</Description>
   </StudentType>
   <StudentType>
     <Type>Know It All</Type>
-    <Description>Already an "expert" in everything you teach (or so they believe); doesn’t need the class</Description>
+    <Description>Already an "expert" in everything you teach (or so they believe); doesn't need the class</Description>
   </StudentType>
   <StudentType>
     <Type>Methodology</Type>
-    <Description>Calls Scrum a "methodology" and wants specific answers Scrum doesn’t offer; also known as perma-shu</Description>
+    <Description>Calls Scrum a "methodology" and wants specific answers Scrum doesn't offer; also known as a "perma-shu"</Description>
   </StudentType>
   <StudentType>
     <Type>Mission Critical</Type>
@@ -102,7 +102,7 @@
   </StudentType>
   <StudentType>
     <Type>Mumbler</Type>
-    <Description>Sits far away, next to noisy things, asks questions no one can hear</Description>
+    <Description>Sits far away, next to noisy devices, and asks questions no one can hear</Description>
   </StudentType>
   <StudentType>
     <Type>Prisoner</Type>
@@ -118,15 +118,15 @@
   </StudentType>
   <StudentType>
     <Type>Rain Man</Type>
-    <Description>Answers questions you asked an hour ago</Description>
+    <Description>Answers questions that you asked an hour ago</Description>
   </StudentType>
   <StudentType>
     <Type>Real World</Type>
-    <Description>Thinks Scrum works in class, but not in the "real world" - and needs to change the rules</Description>
+    <Description>Thinks Scrum works in class, but not in the "real world"; requires changes the rules</Description>
   </StudentType>
   <StudentType>
     <Type>Resource</Type>
-    <Description>Calls people "resources" despite learning to say "person" or "people"</Description>
+    <Description>Calls people "resources" despite learning better, alternative language</Description>
   </StudentType>
   <StudentType>
     <Type>Road Warrior</Type>
@@ -138,11 +138,11 @@
   </StudentType>
   <StudentType>
     <Type>Scrum Manager</Type>
-    <Description>PMI-certified SM trying to self-organize teams around traditional metrics</Description>
+    <Description>PMI-certified trying to self-organize teams around traditional metrics</Description>
   </StudentType>
   <StudentType>
     <Type>Scrum Nerd</Type>
-    <Description>Reads the Scrum Guide before bed - in multiple languages; also known as Bradley</Description>
+    <Description>Reads the Scrum Guide before bed - in multiple languages; also known as "Bradley"</Description>
   </StudentType>
   <StudentType>
     <Type>Separatist</Type>
@@ -166,19 +166,19 @@
   </StudentType>
   <StudentType>
     <Type>Sprint 0</Type>
-    <Description>Thinks you need a Sprint to "prepare" - for architecture, infrastructure, etc.</Description>
+    <Description>Thinks you need a preparation Sprint for architecture, infrastructure, etc.</Description>
   </StudentType>
   <StudentType>
     <Type>Standup</Type>
-    <Description>Calls the Daily Scrum a "standup" and thinks holding it equals practicing Scrum</Description>
+    <Description>Calls the Daily Scrum a "standup" and thinks holding it equates to Professional Scrum</Description>
   </StudentType>
   <StudentType>
     <Type>Star</Type>
-    <Description>Participates, gets it, finishes labs early, gives great evals - your ideal student</Description>
+    <Description>Participates, gets it, finishes activities early, gives great evals; your ideal student</Description>
   </StudentType>
   <StudentType>
     <Type>Stalker</Type>
-    <Description>Won’t let you take breaks or eat without asking questions; provide fake email</Description>
+    <Description>Won't let you take breaks or eat without hanging with you and asking questions; may be a Doppelgänger</Description>
   </StudentType>
   <StudentType>
     <Type>Stinky</Type>
@@ -190,7 +190,7 @@
   </StudentType>
   <StudentType>
     <Type>Surfer</Type>
-    <Description>Never makes eye contact - always surfing; may secretly be a Road Warrior</Description>
+    <Description>Never makes eye contact - always surfing; may be a Road Warrior</Description>
   </StudentType>
   <StudentType>
     <Type>Telepath</Type>
@@ -198,11 +198,11 @@
   </StudentType>
   <StudentType>
     <Type>Team Lead</Type>
-    <Description>Wants Scrum to help him lead the team better - also known as C2</Description>
+    <Description>Wants Scrum to help him make better decisions to manage the team better</Description>
   </StudentType>
   <StudentType>
     <Type>Thunder Stealer</Type>
-    <Description>Steals your punchlines or answers while you’re still explaining</Description>
+    <Description>Steals your punchlines or answers while you're still explaining</Description>
   </StudentType>
   <StudentType>
     <Type>Time Traveller</Type>
@@ -210,7 +210,7 @@
   </StudentType>
   <StudentType>
     <Type>Turncoat</Type>
-    <Description>Loyal to the competitor’s product; expects a debate and is ready for battle</Description>
+    <Description>Loyal to the competitor's process or product; ready for battle - expect a debate</Description>
   </StudentType>
   <StudentType>
     <Type>UAT</Type>
