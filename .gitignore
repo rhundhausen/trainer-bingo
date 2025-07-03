@@ -2,30 +2,47 @@
 /public/
 /resources/_gen/
 /hugo_stats.json
+/.hugo_build.lock
+/hugo_cache/
+/_modules/
+
+# Old backup site (if used)
 /!oldsite/
 
 # Build artifacts
 *.bak
+*.bak~
+*.orig
 *.tmp
 *.swp
 *.swo
 
-# Node.js dependencies (if using npm/yarn for asset pipelines)
+# Node.js dependencies (if using npm/yarn/pnpm)
 node_modules/
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
 
 # OS / Editor files
 .DS_Store
 Thumbs.db
+ehthumbs.db
+desktop.ini
 .idea/
 .vscode/
+*.code-workspace
+
+# Log files
 *.log
+*.log.*
 
-# Netlify / deployment folders (if you generate them locally)
-.netlify/
+# Netlify / deployment folders (if used)
+/.netlify/
 
-# Hugo environment files (if you have any secrets stored here)
+# Hugo environment files (if storing secrets)
 .env
 .env.*
 
-# Other potential caches
-.cache/
+# Terraform state (if used)
+*.tfstate
+*.tfstate.backup
