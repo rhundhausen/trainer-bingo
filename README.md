@@ -1,1 +1,1 @@
-# trainer-bingo
+# Trainer Bingo

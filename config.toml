@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Trainer Bingo"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
