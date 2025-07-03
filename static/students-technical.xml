@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentTypes>
+  <StudentType>
+    <Type>Assassin</Type>
+    <Description>The Assassin interacts with you throughout class; never complains, actively particpates, and then gives horrible scores without any comments</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Buddy</Type>
+    <Description>Buddies are kindred spirits, and not just about technology; you may connect with them on various levels throughout the event, and even socialize</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Day Planner</Type>
+    <Description>The Day-Planner wants to know exactly when class will start and end each day, including all breaks and lunch for the entire week; also known as Franklin</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Dinosaur</Type>
+    <Description>The Dinosaur is a type of "Know-It-All" but with no modern experience; however, their 20+ years of experience on a dead technology qualifies them as an expert (in their mind)</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Doppelgänger</Type>
+    <Description>Beware of Dopplegangers, because they are not really interested in the material you are teaching; they want to be an instructor or presenter themselves; all of their questions pertain to metadata about the event, you, and your career</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Fidget</Type>
+    <Description>Fidgets can't stay still; constantly shifting, shuffling, and possible loud sighing; you know the chairs are going to get horrible scores</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Flirt</Type>
+    <Description>Self explanatory; flirts may do things to try to distract you while you are presenting</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Idiot</Type>
+    <Description>Self explanatory; them not knowing the correct answers doesn't stop them from constantly answering your questions</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Know It All</Type>
+    <Description>We've all met them; they are already experts in whatever you are explaining, regardless of the subject matter; whether they actually know the material is irrelevant. They may try to prove that they don't need to be there.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Muffin Eater</Type>
+    <Description>Muffin-eaters are just there for the free food, beverages, or raffle prizes</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Mumbler</Type>
+    <Description>Mumblers are more than just quiet or hard-to-understand students, but they insist on sitting as far from you as possible, possibly next to a noisy piece of equipment and then ask many questions</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Pretzel</Type>
+    <Description>The Pretzel is a type of "Prisoner"; Pretzels sit with their arms folded emitting negative energy</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Prisoner</Type>
+    <Description>The Prisoner was somehow made to attend your class against his/her will; they may not actively participate and if they are too negative, they might be a "Pretzel"</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Rain Man</Type>
+    <Description>These students answer questions you asked an hour ago</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Road Warrior</Type>
+    <Description>The anti-prisoner; Road warriors can be found in the back, telneted/remoted in to work and getting real work done; the best road-warriors will be billing time during class, and may even net a profit</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Salesman</Type>
+    <Description>The salesman relates all features and capabilities back to their favorite technology; they may be open minded and even persuaded, but not before you hear the pitch a few dozen times; may also qualify as a "Dinosaur"</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Shiverer</Type>
+    <Description>This person is constantly cold (or hot); even when no other students complain; wears sweaters or jackets in class; don't put a shiverer near a thermostat</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Sponge</Type>
+    <Description>Sponges want to learn everything about everything; their questions are regularly out of scope; note-taking is a common trait of Sponges, but also of the "Xerox"</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Stalker</Type>
+    <Description>Beware of Stalkers; These are Buddies who don't give you a break; they will not let you take breaks, eat lunch, or go to the restroom without following and asking questions or telling stores; identify early to provide a false email address</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Star</Type>
+    <Description>Stars are your ideal student; this can be fairly subjective, but some guidelines for identifying a star: they participate, they are interested in the topic, they finished their labs in a timely fashion, they provide good/great scores, and most importantly is "they get it"</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Story Teller</Type>
+    <Description>Story-Tellers have a way of sucking you in; they may have a good question or comment to make, but unfortunately, they have preface it with a long preamble or story; might qualify as a "Dinosaur"</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Thunder Stealer</Type>
+    <Description>A type of "Know-It-All" or "Doppleganger" who steals your punchlines or answers as you are explaining a concept</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Time Traveller</Type>
+    <Description>The time-traveller is a type of "Rain-Man" who, by the end of the day or week, starts to synthesize the material and begins asking questions from earlier in the week; Time travellers may also work backwords, constantly asking you questions about material later in the day or week</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Turncoat</Type>
+    <Description>Turncoats are a type of "Prisoner" or "Salesman" because they are a fan of the directly competing product or technology; plan on many competitive discussions and rude QA with this one</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Xerox</Type>
+    <Description>The Xerox perfectly copies all of your drawings or transcribes your dialog; the Xerox may or may not understand what they are copying down, but they stay very busy; easy to spot; might be a "Sponge"</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Spell Checker</Type>
+    <Description>The Spellchecker makes a point to identify all typos and errors of any size or relevance; also known as F7</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Blue Screen</Type>
+    <Description>The Blue Screen is the unluck student who's computer just locks up or otherwise misbehaves. Usually walking over and standing near the computer fixes the problem.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Headstart</Type>
+    <Description>Headstarts enjoy working on the next module or lab during lecture so they can have an edge, or maybe leave early. Headstarts can sometimes be Day-Planners or Know-It-Alls.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Evil Genius</Type>
+    <Description>The Evil Genius uses his/her heightened intelligence of the subject for malicious purposes. Keep a watchful eye, because they like to hide among the other students.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Stinky</Type>
+    <Description>Enough said</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Insurgent</Type>
+    <Description>An Insurgent is a type of salesman, but is completely closed minded, almost on a Jihad to convert other students and the instructor to their way of thinking.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Career Changer</Type>
+    <Description>The Career Changer is looking to make more money and heard that your industry can provide that. Career Changers are often sponges.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Telepath</Type>
+    <Description>Telepaths have insight into what the future will bring in the way of new technology, or at least they like to think so. Telepaths may be dinosaurs in disguise.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Surfer</Type>
+    <Description>The surfer never makes eye contact, because he or she is busy surfing the internet. If you are sharp, you can determine if the Surfer is actually a Road Warrior.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Hindsight</Type>
+    <Description>Hindsights are quick to point our errors in your code AFTER Intellisense or the parser points out the error. "Oh, you needed a semicolon back there".</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Autist</Type>
+    <Description>Autists quietly ask questions about material completely unrelated to what you are presenting. May be a type of Rain-Man.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Soloist</Type>
+    <Description>Soloists try to usurp all discussions, whether or not they have a clue about the topic. Be careful, some Soloists may be Insurgents.</Description>
+  </StudentType>
+</StudentTypes>

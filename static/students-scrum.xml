@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentTypes>
+  <StudentType>
+    <Type>Architect</Type>
+    <Description>Appreciates that a Scrum Development Team will be able to deliver on his designs better, faster, cheaper</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Autist</Type>
+    <Description>Autists quietly ask questions about material completely unrelated to what you are presenting. May be a type of Rain-Man.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>BDUF</Type>
+    <Description>Considers a Product Backlog item to be a pointer to a large specification document that defines both the "what" and the "how"; also known as Specs</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Blue Screen</Type>
+    <Description>The Blue Screen is the unlucky student whose computer just locks up or otherwise misbehaves. Usually walking over and standing near the computer fixes the problem.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Career Changer</Type>
+    <Description>The Career Changer is looking to make more money and heard that your industry can provide that. Career Changers are often sponges.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Case Study</Type>
+    <Description>Wants to see a case study for everything (e.g. test first, pair programming, agile, working as a team, etc.); also known as a flat-earther</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Cassandra</Type>
+    <Description>Knows Scrum but no one else on the team cares. The project is in trouble and Cassandra is the only one who sees it. She watches helplessly as it fails.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Code Coverage</Type>
+    <Description>Considers this a valid development metric, even to be added to the DoD, and possibly as a team measurement</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Dinosaur</Type>
+    <Description>The Dinosaur is a type of "Know-It-All" with no modern experience, but believes 20+ years with dead tech makes them an expert</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Done-Done</Type>
+    <Description>As annoying as Jar-Jar, but with the ability to introduce substantially more waste into the process</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Doppelgänger</Type>
+    <Description>Not truly engaged - just wants to be the instructor. Their questions are mostly about the event or your background.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Enabler</Type>
+    <Description>Scrum Master tries to help the team by redefining the DoD instead of addressing a real constraint, which makes things worse.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Evil Genius</Type>
+    <Description>Uses deep knowledge for malicious or disruptive purposes; hides among the other students</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Fidget</Type>
+    <Description>Can’t sit still, constantly moving or sighing; chairs will get horrible scores</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Flirt</Type>
+    <Description>Self-explanatory; may try to distract the instructor</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Groom</Type>
+    <Description>Still uses the term "grooming" instead of "refinement" despite updates to Scrum terminology</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Hardening Sprint</Type>
+    <Description>Believes a sprint dedicated to hardening is required for release - why not 2 or 3?</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Headstart</Type>
+    <Description>Works ahead during lectures to leave early; may be a Know-It-All or Day-Planner</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Hindsight</Type>
+    <Description>Points out your coding errors right after the IDE or parser already does</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Idiot</Type>
+    <Description>Self-explanatory; confidently answers questions incorrectly and often</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Insurgent</Type>
+    <Description>Closed-minded evangelist for their favorite tech; tries to convert everyone in class</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Know It All</Type>
+    <Description>Already an "expert" in everything you teach (or so they believe); doesn’t need the class</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Methodology</Type>
+    <Description>Calls Scrum a "methodology" and wants specific answers Scrum doesn’t offer; also known as perma-shu</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Mission Critical</Type>
+    <Description>Believes Scrum can't work for "mission critical" apps; prefers heavy upfront design</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Muffin Eater</Type>
+    <Description>Attends primarily for the snacks, coffee, or raffle prizes</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Mumbler</Type>
+    <Description>Sits far away, next to noisy things, asks questions no one can hear</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Prisoner</Type>
+    <Description>Forced to attend the class; unmotivated and unengaged</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Pretzel</Type>
+    <Description>A type of Prisoner - arms folded, emitting negative energy</Description>
+  </StudentType>
+  <StudentType>
+    <Type>QA</Type>
+    <Description>Uses the term "QA" even after learning Scrum has no sub-teams</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Rain Man</Type>
+    <Description>Answers questions you asked an hour ago</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Real World</Type>
+    <Description>Thinks Scrum works in class, but not in the "real world" - and needs to change the rules</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Resource</Type>
+    <Description>Calls people "resources" despite learning to say "person" or "people"</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Road Warrior</Type>
+    <Description>Back-row student working remotely and billing hours during class</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Salesman</Type>
+    <Description>Everything ties back to their favorite tech stack; expect a product pitch</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Scrum Manager</Type>
+    <Description>PMI-certified SM trying to self-organize teams around traditional metrics</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Scrum Nerd</Type>
+    <Description>Reads the Scrum Guide before bed - in multiple languages; also known as Bradley</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Separatist</Type>
+    <Description>Team members work in silos and never talk; Daily Scrum is the only (awkward) interaction</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Shiverer</Type>
+    <Description>Always cold or hot. Wears layers. Constantly complains about room temperature</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Soloist</Type>
+    <Description>Dominates all discussions whether or not they know the topic; may be an Insurgent</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Sponge</Type>
+    <Description>Wants to learn everything. Constant questions, lots of notes. May also be a Xerox</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Spell Checker</Type>
+    <Description>Points out typos or errors of any size; also known as F7</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Sprint 0</Type>
+    <Description>Thinks you need a Sprint to "prepare" - for architecture, infrastructure, etc.</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Standup</Type>
+    <Description>Calls the Daily Scrum a "standup" and thinks holding it equals practicing Scrum</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Star</Type>
+    <Description>Participates, gets it, finishes labs early, gives great evals - your ideal student</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Stalker</Type>
+    <Description>Won’t let you take breaks or eat without asking questions; provide fake email</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Stinky</Type>
+    <Description>Enough said</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Story Teller</Type>
+    <Description>Must preface every question or point with a long, unrelated story</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Surfer</Type>
+    <Description>Never makes eye contact - always surfing; may secretly be a Road Warrior</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Telepath</Type>
+    <Description>Claims to know the future of tech; usually just a Dinosaur in disguise</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Team Lead</Type>
+    <Description>Wants Scrum to help him lead the team better - also known as C2</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Thunder Stealer</Type>
+    <Description>Steals your punchlines or answers while you’re still explaining</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Time Traveller</Type>
+    <Description>Asks questions about topics from earlier (or later) in the day/week</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Turncoat</Type>
+    <Description>Loyal to the competitor’s product; expects a debate and is ready for battle</Description>
+  </StudentType>
+  <StudentType>
+    <Type>UAT</Type>
+    <Description>Believes stakeholders must approve done items - or Scrum won't work</Description>
+  </StudentType>
+  <StudentType>
+    <Type>User Story</Type>
+    <Description>Thinks "user story" = "use case"; has no clue what acceptance criteria are</Description>
+  </StudentType>
+  <StudentType>
+    <Type>Xerox</Type>
+    <Description>Copies everything (verbatim); understanding optional</Description>
+  </StudentType>
+</StudentTypes>
