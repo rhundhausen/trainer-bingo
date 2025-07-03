@@ -87,16 +87,14 @@ td.marked {
   color: #000;
   padding: 6px 10px;
   border-radius: 4px;
-  font-size: 0.8rem;
-  white-space: nowrap;           /* ← keep it on one line */
-  min-width: 200px;              /* ← minimum width */
-  max-width: 400px;              /* ← prevent stretching too far */
+  font-size: 0.7rem;           /* smaller font */
+  white-space: normal;         /* allow wrapping */
+  min-width: 220px;
+  max-width: 500px;            /* increased max width */
   z-index: 10;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
   border: 1px solid #ccc;
   text-align: left;
-  overflow: hidden;
-  text-overflow: ellipsis;       /* ← optional, for very long text */
 }
 
 .cell[data-tooltip]:hover::before {
