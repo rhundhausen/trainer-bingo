@@ -237,7 +237,7 @@ td.marked {
   }
 }
 
-@media only screen and (orientation: landscape) and (max-height: 500px) {
+@media only screen and (orientation: landscape) and (max-height: 700px) {
   .board-container {
     width: 100vw;
     height: 100vh;
