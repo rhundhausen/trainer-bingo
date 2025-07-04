@@ -239,49 +239,57 @@ td.marked {
 
 @media only screen and (orientation: landscape) and (max-height: 500px) {
   .board-container {
-    width: 95vw;
-    height: 95vh;
+    width: 100vw;
+    height: 100vh;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     margin: 0 auto;
+    padding: 0;
   }
 
   .bingo {
-    top: 5%;
-    left: 5%;
-    right: 5%;
-    bottom: 20%; /* leave room for controls */
-    padding: 5px;
+    width: 78vmin; /* slightly larger than 72vmin */
+    height: 78vmin;
+    top: 48px; /* ~0.5 inch down */
+    left: 50%;
+    transform: translateX(-50%);
     gap: 2px;
+    padding: 0;
   }
 
   .cell {
-    font-size: 1.5vw;
-    padding: 2px;
+    aspect-ratio: 1 / 1;
+    font-size: 2.4vmin;
+    padding: 0;
   }
 
   .controls {
-    position: absolute;
-    bottom: 5px;
+    bottom: -8px;
+    font-size: 0.6rem;
     flex-wrap: wrap;
-    font-size: 0.7rem;
-    gap: 0.5rem;
-    padding: 0.4rem 0.5rem;
+    gap: 0.4rem;
+    justify-content: center;
+  }
+  
+  .controls label {
+    font-size: 0.5rem;
+    margin: 0;
   }
 
-  .controls label {
-    font-size: 0.7rem;
+  .controls input[type="radio"] {
+    transform: scale(1);           /* standard size radios */
+    margin-right: 4px;
   }
 
   .controls button {
-    font-size: 0.6rem;
-    padding: 0.3rem 0.5rem;
+    font-size: 0.5rem;
+    padding: 0.2rem 0.2rem;
+    margin-top: 0;
   }
 
   .suggestion-link {
-    font-size: 0.6rem;
-    margin-left: 0;
-    margin-top: 0.2rem;
+    font-size: 0.5rem;
+    margin: 0;
   }
 }
