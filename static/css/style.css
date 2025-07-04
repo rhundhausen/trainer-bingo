@@ -38,7 +38,7 @@ td.marked {
   width: 900px;
   height: 850px;
   background: url('/images/background-scrum.png') no-repeat center center;
-  background-size: cover;
+  background-size: 85%;
   position: relative;
 }
 
@@ -152,7 +152,7 @@ td.marked {
   font-size: 1.25rem;
   align-self: center;
   margin-top: -4px;    /* move up slightly */
-  margin-left: 13rem;   /* move right about 1 inch (~16px) */
+  margin-left: 8rem;   /* move right about 1 inch (~16px) */
 }
 
 .suggestion-link:hover {
@@ -169,6 +169,17 @@ td.marked {
   z-index: 1000;
   font-family: monospace;
   pointer-events: none; /* so it doesn't block clicks underneath */
+}
+
+@media (min-width: 769px) {
+  .bingo {
+    transform: scale(0.84);
+    transform-origin: center;
+  }
+
+ .controls {
+    bottom: 65px; /* moves it up ~1 inch from the bottom */
+  }
 }
 
 /* Responsive design for smaller screens */
