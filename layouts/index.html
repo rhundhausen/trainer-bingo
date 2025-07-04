@@ -5,26 +5,23 @@
   <title>Trainer Bingo</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+  <link rel="preload" href="/images/background-scrum.png" as="image">
+  <link rel="preload" href="/images/background-technical.png" as="image">
   <link rel="stylesheet" href="/css/style.css" />
 </head>
 <body>
   <div class="board-container">
     <div class="bingo" id="bingoBoard"></div>
     <div class="controls">
-      <label>
-        <input type="radio" name="category" value="scrum" checked />
-        Scrum
-      </label>
-      <label>
-        <input type="radio" name="category" value="technical" />
-        Technical
-      </label>
+      <label><input type="radio" name="category" value="scrum" checked />Scrum</label>
+      <label><input type="radio" name="category" value="technical" />Technical</label>
       <button id="refreshButton">Refresh</button>
       <a href="mailto:trainerbingo@accentient.com?subject=A%20suggestion%20for%20TrainerBingo.com" class="suggestion-link">
         Make a suggestion
       </a>
     </div>
   </div>
+
   <script>
     let currentCategory = 'scrum'; // Track which category is selected
 
@@ -53,13 +50,16 @@
             if (i === 12) {
               div.textContent = "FREE";
               div.classList.add("active");
+              div.classList.add("free-space"); // Optional: use this to style differently
             } else {
               const data = selected[i < 12 ? i : i - 1];
               div.textContent = data.type;
               div.setAttribute("data-tooltip", data.description);
+
+              // Only non-free spaces are clickable
+              div.addEventListener("click", () => div.classList.toggle("active"));
             }
 
-            div.addEventListener("click", () => div.classList.toggle("active"));
             board.appendChild(div);
           }
         })
@@ -96,5 +96,7 @@
       loadBoard(file);
     });
   </script>
+
+  <div class="version-label">v0.9.0</div>
 </body>
 </html>
