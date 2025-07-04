@@ -237,7 +237,9 @@ td.marked {
   }
 }
 
-@media only screen and (orientation: landscape) and (max-height: 700px) {
+@media only screen and (orientation: landscape) and (max-device-height: 500px), 
+       only screen and (orientation: landscape) and (max-height: 500px),
+       only screen and (orientation: landscape) and (max-width: 932px) {
   .board-container {
     width: 100vw;
     height: 100vh;
@@ -249,9 +251,9 @@ td.marked {
   }
 
   .bingo {
-    width: 78vmin;
+    width: 78vmin; /* slightly larger than 72vmin */
     height: 78vmin;
-    top: 8px; /* was 48px */
+    top: 48px; /* ~0.5 inch down */
     left: 50%;
     transform: translateX(-50%);
     gap: 2px;
