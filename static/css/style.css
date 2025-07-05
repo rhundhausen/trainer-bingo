@@ -250,8 +250,8 @@ td.marked {
 
 @media only screen and (orientation: landscape) and (max-width: 1024px) {
   .board-container {
-    width: 88vw;
-    height: 88vh;
+    width: 84vw;
+    height: 84vh;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -260,8 +260,8 @@ td.marked {
   }
 
   .bingo {
-    width: 71vmin; /* slightly larger than 72vmin */
-    height: 71vmin;
+    width: 70vmin; /* slightly larger than 72vmin */
+    height: 70vmin;
     top: 40px; /* ~0.5 inch down */
     left: 50%;
     transform: translateX(-50%);
