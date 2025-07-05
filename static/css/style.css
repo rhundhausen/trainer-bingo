@@ -255,13 +255,15 @@ td.marked {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+
+    background-size: 95%;
     margin: 0 auto;
     padding: 0;
   }
 
   .bingo {
-    width: 70vmin; /* slightly larger than 72vmin */
-    height: 70vmin;
+    width: 65vmin; /* slightly larger than 72vmin */
+    height: 65vmin;
     top: 40px; /* ~0.5 inch down */
     left: 50%;
     transform: translateX(-50%);
