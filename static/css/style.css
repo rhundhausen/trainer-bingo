@@ -260,8 +260,8 @@ td.marked {
   }
 
   .bingo {
-    width: 74vmin; /* slightly larger than 72vmin */
-    height: 74vmin;
+    width: 71vmin; /* slightly larger than 72vmin */
+    height: 71vmin;
     top: 40px; /* ~0.5 inch down */
     left: 50%;
     transform: translateX(-50%);
