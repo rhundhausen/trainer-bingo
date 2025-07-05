@@ -250,8 +250,8 @@ td.marked {
 
 @media only screen and (orientation: landscape) and (max-width: 1024px) {
   .board-container {
-    width: 92vw;
-    height: 92vh;
+    width: 88vw;
+    height: 88vh;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
